@@ -1,0 +1,15 @@
+/* Medical Response System for Smart City */
+:root {
+	--input-padding-x: 1.5rem;
+	--input-padding-y: .75rem
+}
+
+body {
+	background: #ED213A;
+	background: -webkit-linear-gradient(to right, #93291E, #ED213A);
+	background: linear-gradient(to right, #93291E, #ED213A);
+}
+
+iframe {
+	text-align:center;
+}
