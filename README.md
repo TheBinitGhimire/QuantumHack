@@ -21,8 +21,12 @@ This is all about our Medical Response System works.
 ## Web Application
 All the codes in this repository excluding the one of a compressed ZIP file are different parts of our web application.
 
+The overall functionality of our project is included in the web application, including the major objective of our project related with the emergency medical response system to let the nearest hospital know about a victim requiring emergency medical care and treatment.
+
 ## Android Application
 The source code of our Android application is available in the **AndroidApplication.zip** file.
+
+In our Android application, we can track people based upon their geolocation every 2 minutes and then enable them to find out whether other people they have met recently are victims of COVID-19 or not. In this way, they can decide whether to go for a COVID-19 test or not and whether to meet the respective people or not in the meantime. This makes it possible for us to aware people in case someone with whom they have met or are willing to meet have been infected with COVID-19 or not.
 
 ## Usage
 The user login panel is available at the homepage, and you can either login or create an account, whereas the hospital control panel is available at **/hospital**.
